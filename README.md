@@ -1,2 +1,2 @@
 # Sanix
-School project
+School proj
